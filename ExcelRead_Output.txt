@@ -1,0 +1,17 @@
+> source('~/R projects/ExcelRead.R')
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.2/xlsx_0.5.7.zip'
+Content type 'application/zip' length 400813 bytes (391 KB)
+downloaded 391 KB
+
+package ‘xlsx’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in:
+		(directory omitted for privacy reasons)
+Loading required package: rJava
+Loading required package: xlsxjars
+           City   Price Year.Built Country State.or.Province
+1       Toronto 1200000       1955  Canada           Ontario
+2  Ashbury Park  300000       1962     USA        New Jersey
+3        Denver  450000       1987     USA          Colorado
+4     Vancouver 2100000       1978  Canada  British Columbia
+5 San Francisco 2800000       1982     USA        California
